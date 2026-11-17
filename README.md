@@ -73,7 +73,7 @@ The package set follows the selected repository at run time; it is not pinned or
 
 ## Development and validation
 
-Make focused changes through pull requests, review code and licenses, and update documentation when behavior changes. Maintainers review test evidence and obtain applicable governance/security review before merging or releasing; unresolved release gates remain visible. Follow [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), [open practices](open_practices.md), and [rules of behavior](rules_of_behavior.md).
+Make focused changes through pull requests, review code and licenses, and update documentation when behavior changes. Maintainers review test evidence and obtain applicable governance/security review before merging or releasing; unresolved release gates remain visible. Follow [CONTRIBUTING.md](CONTRIBUTING.md) and the [CDC GitHub Practices for Open Source Projects](https://github.com/CDCgov/template/blob/master/open_practices.md).
 
 ```sh
 python3 scripts/check_notebook.py
