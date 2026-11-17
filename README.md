@@ -98,7 +98,7 @@ The source code is distributed in the hope that it will be useful, but without w
 
 ## Privacy Standard Notice
 
-Only non-sensitive, publicly releasable material belongs in this repository and its discussions. Review code, notebook outputs, logs, and commit history before publication. Participation is covered by the [disclaimer](DISCLAIMER.md) and [code of conduct](code-of-conduct.md). See [CDC privacy information](https://www.cdc.gov/other/privacy.html).
+This repository contains only non-sensitive, publicly available data and information. Do not submit or store personally identifiable information, protected health information, sensitive laboratory information, or other non-public data. See the [Disclaimer](https://github.com/CDCgov/template/blob/main/DISCLAIMER.md) and [Code of Conduct](https://github.com/CDCgov/template/blob/main/code-of-conduct.md).
 
 ## Contributing Standard Notice
 
