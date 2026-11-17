@@ -1,7 +1,5 @@
 # R Jupyter user library bootstrap
 
-> As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.
-
 ## Overview
 
 A standalone R notebook for installing CRAN packages and their dependencies into a writable user library on Linux Jupyter environments. It is intended for managed institutional environments where users cannot install system packages or write to R’s system library.
