@@ -4,7 +4,7 @@
 
 ## Overview
 
-A standalone R notebook for installing CRAN packages and their dependencies into a writable user library on Linux Jupyter environments. IIt is intended for managed institutional environments where users cannot install system packages or write to R’s system library.
+A standalone R notebook for installing CRAN packages and their dependencies into a writable user library on Linux Jupyter environments. It is intended for managed institutional environments where users cannot install system packages or write to R’s system library.
 In general, the goal is to help users work with R in Jupyter under common permission restrictions, with minimal additional support.
 
 The installer resolves recursive `Depends`, `Imports`, and `LinkingTo` dependencies, orders builds, checks version constraints, and installs packages in separate `Rscript --vanilla` processes. It reuses compatible installed packages by default and validates target namespaces in fresh R processes. Optional direct `Suggests` are disabled by default.
