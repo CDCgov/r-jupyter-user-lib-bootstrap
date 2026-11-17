@@ -4,10 +4,7 @@ questions or doubts, don't be afraid to send them our way. We appreciate all
 contributions, and we are looking forward to fostering an open, transparent, and
 collaborative environment.
 
-Before contributing, we encourage you to also read our [LICENSE](LICENSE),
-[README](README.md), and
-[code-of-conduct](code-of-conduct.md)
-files, also found in this repository. If you have any inquiries or questions not
+Before contributing, please read our [LICENSE](LICENSE) and [README](README.md), and review the [CDC template Code of Conduct](https://github.com/CDCgov/template/blob/main/code-of-conduct.md). If you have any inquiries or questions not
 answered by the content of this repository, feel free to [contact us](mailto:surveillanceplatform@cdc.gov).
 
 ## Public Domain
